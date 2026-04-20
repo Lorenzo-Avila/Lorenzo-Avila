@@ -1,7 +1,3 @@
-Este README foi estruturado para refletir sua transição de uma base administrativa sólida para a especialização em **Data Science** e **Business Intelligence**, destacando seu projeto de conclusão de curso (TCC) e sua capacidade de automatizar processos reais.
-
------
-
 # 👋 Olá, eu sou o Lorenzo de Ávila Carpes
 
 **Data Engineering & Machine Learning Enthusiast**
