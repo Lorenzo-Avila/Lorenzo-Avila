@@ -1,9 +1,6 @@
 # 👋 Olá, eu sou o Lorenzo de Ávila Carpes / Hi, I'm Lorenzo
 
-<p align="left">
-  <a href="README.md">🇧🇷 Português</a> | 
-  <a href="README.en.md">🇺🇸 English</a>
-</p>
+<a href="README.md">🇧🇷 Português</a> | <a href="README.en.md">🇺🇸 English</a>
 
 🚀 **Data Engineering & Machine Learning Enthusiast**
 
