@@ -75,9 +75,3 @@ Sou estudante de Sistemas de Informação e apaixonado por tecnologia, dados e a
 * 🎯 Buscando oportunidades para aplicar **BI e Analytics** em desafios de mercado.
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Avila&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo-Avila&layout=compact&theme=radical" />
-</p>
