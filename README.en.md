@@ -75,9 +75,3 @@ I am an Information Systems student passionate about technology, data, and autom
 * 🎯 Looking for opportunities to apply **BI and Analytics** to market challenges.
 
 ---
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lorenzo-Avila&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorenzo-Avila&layout=compact&theme=radical" />
-</p>
